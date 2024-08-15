@@ -3,7 +3,7 @@
   "description": "Aplicação web de agendamento para corte de cabelo",
   "author": "Emerson Piassi",
   "scripts": {
-    "serve": "json-server --watch server.json --port=3333",
+    "server": "json-server --watch server.json --port=3333",
     "dev": "webpack serve",
     "build": "webpack"
   },
